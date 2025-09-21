@@ -22,7 +22,7 @@ A fun, interactive word guessing game built as a Progressive Web App (PWA). Perf
 
 ## 🚀 Play Now
 
-Visit the live game: [Your-URL-Will-Go-Here]
+Visit the live game: https://undercover-delta.vercel.app
 
 ### Install as App
 - **Mobile**: Open in browser → "Add to Home Screen" or "Install"
@@ -39,7 +39,7 @@ Visit the live game: [Your-URL-Will-Go-Here]
 ## 🏃‍♂️ Run Locally
 
 Clone the repository
-git clone https://github.com/yourusername/undercover-game.git
+git clone https://github.com/yourusername/undercover.git
 
 Install dependencies
 cd undercover-game
